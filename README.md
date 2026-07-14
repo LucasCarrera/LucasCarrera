@@ -18,30 +18,7 @@
 
 <br>
 
-### 🛠️ Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-1B7A5A?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-1B7A5A?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1B7A5A?style=for-the-badge&logo=pandas&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-1B7A5A?style=for-the-badge&logo=ollama&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1B7A5A?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br>
-
-### 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LucasCarrera&show_icons=true&hide_border=true&bg_color=00000000&title_color=1B7A5A&icon_color=1B7A5A&text_color=888888&count_private=true" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCarrera&layout=compact&hide_border=true&bg_color=00000000&title_color=1B7A5A&text_color=888888&langs_count=8" height="165" alt="top langs" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasCarrera&hide_border=true&background=00000000&ring=1B7A5A&fire=1B7A5A&currStreakLabel=1B7A5A&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=888888" height="165" alt="streak" />
-
-</div>
+### 🐍 Contribuições
 
 <div align="center">
 
@@ -52,18 +29,6 @@
 </picture>
 
 </div>
-
-<br>
-
-### 🚀 Projeto em destaque
-
-<div align="center">
-
-[![MeuCaixa](https://github-readme-stats.vercel.app/api/pin/?username=LucasCarrera&repo=MeuCaixa&hide_border=true&bg_color=00000000&title_color=1B7A5A&icon_color=1B7A5A&text_color=888888)](https://github.com/LucasCarrera/MeuCaixa)
-
-</div>
-
-App desktop de controle financeiro pessoal (Python + pywebview): categorização automática de gastos, alertas inteligentes, relatórios em Excel/PDF e um assistente com IA local via Ollama — tudo rodando na sua máquina, sem depender de nuvem.
 
 <br>
 
